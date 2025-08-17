@@ -33,6 +33,8 @@ Each item includes a short description and a checkbox to track your preparation 
   - Small label for statuses, tags, or counts.
 - [ ] **Table**
   - Sortable, filterable, paginated data table.
+- [ ] **Popup**
+  - Popup lets you display content in tooltips and popovers.
 
 ---
 
@@ -50,6 +52,8 @@ Each item includes a short description and a checkbox to track your preparation 
   - Calendar-based date/time selection.
 - [ ] **File Upload**
   - Drag-and-drop file uploader with previews.
+- [ ] **Autocomplete**
+  - Allows user to search, a list of search appear in a popup and the user can select a result.
 
 ---
 
