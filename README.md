@@ -1,6 +1,3 @@
-# machine-coding-round
-Machine code Practice
-
 # 📦 Reusable React Components – Interview Preparation Checklist
 
 This document lists **reusable React components** commonly discussed in **Senior Frontend Engineer interviews**.  
