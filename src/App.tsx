@@ -1,12 +1,19 @@
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// import './App.css'
-import AppRoutes from './routes/routes'
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
+import { Header } from './stories/Header'
 
 function App() {
 
   return (
     <>
+      <Header
+        user={{ name: 'Jane Doe' }}
+        onLogin={() => alert('onLogin')}
+        onLogout={() => alert('onLogout')}
+        onCreateAccount={() => alert('onCreateAccount')}
+      />
       <div>
         <a href="/">
           Home
