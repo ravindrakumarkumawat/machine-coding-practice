@@ -35,7 +35,26 @@ Each item includes a short description and a checkbox to track your preparation 
   - Sortable, filterable, paginated data table.
 - [ ] **Popup**
   - Popup lets you display content in tooltips and popovers.
+- [ ] **Breadcrumbs**
+  - Navigation hierarchy display.
 
+## 🖼️ Advanced UI Components - GF
+- [ ] **Autocomplete**
+  - Allows user to search, a list of search appear in a popup and the user can select a result.
+- [ ] **Dropdown Menu**
+  - A menu that appears when a user clicks on a button or link, showing a list of options.
+- [ ] **Embeddable poll widget**
+  - A component that allows users to create and participate in polls.
+- [ ] **Image Carousel/Slider**
+  - A component that displays a series of images in a sliding format.
+- [ ] **Rating Component**
+  - Allows users to rate items (e.g., stars, thumbs up/down).
+- [ ] **Progress Indicator**
+  - Visual representation of progress (e.g., loading, task completion).
+- [ ] **Rich text editor**  
+  - A component that allows users to format text (bold, italic, lists, etc.).
+- [ ] **Markdown Editor**
+  - A component that allows users to write and preview Markdown content.
 ---
 
 ## 🎛️ Form Components
@@ -52,8 +71,6 @@ Each item includes a short description and a checkbox to track your preparation 
   - Calendar-based date/time selection.
 - [ ] **File Upload**
   - Drag-and-drop file uploader with previews.
-- [ ] **Autocomplete**
-  - Allows user to search, a list of search appear in a popup and the user can select a result.
 
 ---
 
